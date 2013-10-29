@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.4
+Created-By: 1.7.0_17-b02 (Oracle Corporation)
+Main-Class: org.jnativehook.example.NativeHookDemo
+
+Name: org/jnativehook
+Implementation-Title: JNativeHook Library
+Implementation-Version: 1.1.4
+Implementation-Vendor: Alexander Barker (alex@1stleg.com)
+
