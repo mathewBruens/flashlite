@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path=""/>
+	<classpathentry kind="src" path="flashlite"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
 	<classpathentry kind="lib" path="JNativeHook.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mathew/.m2/repository/com/github/sarxos/webcam-capture/0.3.10-SNAPSHOT/webcam-capture-0.3.10-SNAPSHOT.jar" sourcepath="C:/Users/Mathew/Downloads/webcam-capture-0.3.10-RC4-dist (1)/src">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.github.sarxos"/>
+			<attribute name="maven.artifactId" value="webcam-capture"/>
+			<attribute name="maven.version" value="0.3.10-SNAPSHOT"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/bridj-0.7-20130703.103049-42.jar"/>
+	<classpathentry kind="lib" path="libs/slf4j-api-1.7.2.jar" sourcepath="C:/Users/Mathew/.m2/repository/org/slf4j/slf4j-api/1.7.2/slf4j-api-1.7.2-sources.jar"/>
+	<classpathentry kind="lib" path="libs/slf4j-simple-1.7.5.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/webcam-capture-example-manycams"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
